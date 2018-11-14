@@ -17,6 +17,3 @@
 ## 四、參考資料
 本專案學習自:實作基於CNN的台鐵訂票驗證碼辨識以及透過模仿及資料增強的訓練集產生器 
 (https://github.com/JasonLiTW/simple-railway-captcha-solver)
-
-
-![avatar](/Users/Loic/image_test/railway-booking/railway_captcha_recognition/training/railway_captcha_recognition_demo.gif)
