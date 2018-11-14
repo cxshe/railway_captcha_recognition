@@ -1,5 +1,4 @@
-# railway_captcha_recognition 
-# 基於CNN+RNN模型的台鐵驗證碼辨識
+# railway_captcha_recognition 基於CNN+RNN模型的台鐵驗證碼辨識
 
 ## ㄧ、前言
 由於台鐵驗證碼的字數並不固定，可能是5或6碼。
